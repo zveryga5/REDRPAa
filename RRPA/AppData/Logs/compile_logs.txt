@@ -1,0 +1,38 @@
+ 2023-05-11 19:53:31.257278 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось ;, а пришло: хуй 
+ 2023-05-11 19:53:44.754545 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: ; 
+ 2023-05-11 19:53:54.440686 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось ;, а пришло: a 
+ 2023-05-11 19:53:54.440686 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: ; 
+ 2023-05-11 19:54:05.199096 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось ;, а пришло: a 
+ 2023-05-11 19:54:49.765266 [ОШИБКА] [Core] [Compiler] [Name Bounder] Ошибка связывания имён: Неизвестная функция {a} 
+ 2023-05-11 19:54:58.670173 [ОШИБКА] [Core] [Compiler] [Name Bounder] Ошибка связывания имён: Неизвестная функция {a} 
+ 2023-05-11 19:55:07.353186 [ОШИБКА] [Core] [Compiler] [Name Bounder] Ошибка связывания имён: Неизвестная функция {a} 
+ 2023-05-11 21:35:28.977277 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось ;, а пришло: 1111 
+ 2023-05-11 21:36:10.991447 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось ;, а пришло: 1111 
+ 2023-06-25 15:18:34.278961 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось ;, а пришло: ) 
+ 2023-06-25 15:19:03.940321 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось ;, а пришло: click_on_object 
+ 2023-06-25 15:19:03.940321 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: ( 
+ 2023-06-25 15:19:03.940321 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: "Запуск 1С:Предприятия (учебной версии)" 
+ 2023-06-25 15:19:03.941322 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: , 
+ 2023-06-25 15:19:03.941322 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: "Конфигуратор" 
+ 2023-06-25 15:19:03.941322 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: ) 
+ 2023-06-25 15:19:03.941322 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: ; 
+ 2023-06-25 15:19:07.057251 [ОШИБКА] [Core] [Compiler] [Name Bounder] Ошибка связывания имён: Неизвестная функция {wait} 
+ 2023-06-25 16:17:57.795546 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось ;, а пришло: get_count 
+ 2023-06-25 16:17:57.795546 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: ( 
+ 2023-06-25 16:17:57.796536 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: ) 
+ 2023-06-25 16:17:57.796536 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: { 
+ 2023-06-25 16:17:57.796536 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось SPEC_INST, а пришло: return 
+ 2023-06-25 16:17:57.796536 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: 2 
+ 2023-06-25 16:17:57.796536 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: ; 
+ 2023-06-25 16:17:57.797535 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: } 
+ 2023-06-25 16:20:36.015637 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось ;, а пришло: wait 
+ 2023-06-25 16:20:36.016637 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: ( 
+ 2023-06-25 16:20:36.016637 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: 1 
+ 2023-06-25 16:20:36.016637 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: ) 
+ 2023-06-25 16:20:36.016637 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось ;, а пришло: ) 
+ 2023-06-25 16:20:51.505933 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось ;, а пришло: wait 
+ 2023-06-25 16:20:51.506933 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: ( 
+ 2023-06-25 16:20:51.506933 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: 1 
+ 2023-06-25 16:20:51.506933 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось {SPEC_INST, FUNC_DEF, EXPR}, а пришло: ) 
+ 2023-06-25 16:20:51.506933 [ОШИБКА] [Core] [Compiler] [Syntax Analyzer] Ожидалось ;, а пришло: ) 
+ 2023-06-25 16:38:09.932493 [ОШИБКА] [Core] [Compiler] [Semantic Analyzer] Семантическая ошибка: [web_click] Требуется 2 аргументa, а пришло 1 
